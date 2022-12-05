@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 16px;
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 16px;
+}
+
+/* form{
+    max-width: 120px;
+} */
+
+#contato {
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 16px;
+    background-color: rgb(61, 110, 94);
+    text-align: center;
+    padding-top: 16px;
+}
+
+section label {
+    font-weight: bold;
+    display: block;
+    color: white;
+}
+
+section textarea {
+    resize: none;
+}
+
